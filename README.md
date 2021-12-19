@@ -1,7 +1,7 @@
 # ePub-one-book
 *** ENG ***
 
-Application created in Android Studio for opening one book, nested inside the application
+Application built in Android Studio to open a single EPUB book nested inside the application.
 
 Powered by FolioReader-Android Repository:
 https://github.com/FolioReader/FolioReader-Android
@@ -9,7 +9,7 @@ https://github.com/FolioReader/FolioReader-Android
 
 *** RUS ***
 
-Приложение, созданно в Android Studio для открытия одной книги, вложенной внутри приложения/
+Приложение, созданно в Android Studio для открытия одной книги в формате EPUB, вложенной внутри приложения.
 
 Созанно на основе репозитория FolioReader-Android:
 https://github.com/FolioReader/FolioReader-Android
