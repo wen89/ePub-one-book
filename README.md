@@ -1,4 +1,6 @@
 # ePub-one-book
+*** ENG ***
+
 Application created in Android Studio for opening one book, nested inside the application
 
 Powered by FolioReader-Android Repository:
