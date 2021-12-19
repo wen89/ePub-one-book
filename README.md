@@ -6,6 +6,7 @@ https://github.com/FolioReader/FolioReader-Android
 
 
 *** RUS ***
+
 Приложение, созданно в Android Studio для открытия одной книги, вложенной внутри приложения/
 
 Созанно на основе репозитория FolioReader-Android:
